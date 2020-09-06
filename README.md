@@ -1,6 +1,7 @@
 # Financial-Portfolio
 
 ## Scraping 10-K,10-Q filings to analysis sentiment
+get S&P 500 companies from WikiPediA, https://en.wikipedia.org/wiki/List_of_S%26P_500_companies <br>
 from U.S. Sucurities and Exchange Commission https://www.sec.gov/
 
 ## Get stock dataset from yahoo finance
