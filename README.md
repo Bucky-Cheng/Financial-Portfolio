@@ -14,5 +14,8 @@ using yfinance https://github.com/ranaroussi/yfinance
 ### will to use BERT analysis news, reports and filings
 
 ## Financial portfolio management, stock relationship analysis
-
+cleaning the stock dataset<br>
+paint correlation heat-map<br>
+generate the portfolio<br>
+using Sharpe Ratio to evaluate portfolio
 ## In progress....
