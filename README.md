@@ -13,4 +13,6 @@ using yfinance https://github.com/ranaroussi/yfinance
   vaderSentiment: https://github.com/cjhutto/vaderSentiment
 ### will to use BERT analysis news, reports and filings
 
+## Financial portfolio management, stock relationship analysis
+
 ## In progress....
