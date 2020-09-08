@@ -16,6 +16,6 @@ using yfinance https://github.com/ranaroussi/yfinance
 ## Financial portfolio management, stock relationship analysis
 cleaning the stock dataset<br>
 paint correlation heat-map<br>
-generate the portfolio<br>
+generate the portfolio <br>
 using Sharpe Ratio to evaluate portfolio
 ## In progress....
