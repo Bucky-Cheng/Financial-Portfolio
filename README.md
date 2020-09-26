@@ -18,4 +18,6 @@ cleaning the stock dataset<br>
 paint correlation heat-map<br>
 generate the portfolio <br>
 using Sharpe Ratio to evaluate portfolio
+
+## Will be using LSTM and/or GRU model to predict every stocks price, maybe to use GAN model.
 ## In progress....
